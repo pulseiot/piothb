@@ -3,4 +3,4 @@ Pulse IoT Networks
 
 
 # Sections
-[Where do I start?](https://arkanuddin.github.io/pulsenetworks/where-do-I-start.md)
+[Where do I start?](https://arkanuddin.github.io/pulsenetworks/where-do-i-start.md)
